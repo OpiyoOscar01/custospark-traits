@@ -1,0 +1,22 @@
+{
+"name": "custospark/traits",
+  "description": "Shared traits, views, and reusable components for Custospark apps.",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Custospark\\Traits\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.2"
+  },
+"extra": {
+  "laravel": {
+    "providers": [
+      "Custospark\\Traits\\SharedPackageServiceProvider"
+    ]
+  }
+},
+"minimum-stability": "dev",
+"prefer-stable": true
+}
