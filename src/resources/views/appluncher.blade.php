@@ -11,7 +11,7 @@
             <span
               class="mt-2 bg-green-100 text-green-700 text-xs font-medium px-2 py-0.5 rounded-full">Subscribed</span>
           </a>
-    
+    {{-- Custohost --}}
           <a href="https://custohost.custospark.com" target="_blank" rel="noopener"
             class="group app-card bg-gray-50 hover:bg-blue-50 border border-gray-200 rounded-lg p-3 flex flex-col items-center text-center transition duration-200">
             <img src="{{ asset('images/v7.png') }}" alt="Custohost"
