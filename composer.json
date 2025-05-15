@@ -2,7 +2,7 @@
 "name": "custospark/traits",
   "description": "Shared traits, views, and reusable components for Custospark apps.",
   "type": "library",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "authors": [
     {
