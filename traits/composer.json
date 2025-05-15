@@ -2,6 +2,21 @@
 "name": "custospark/traits",
   "description": "Shared traits, views, and reusable components for Custospark apps.",
   "type": "library",
+    "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Custospark",
+      "email": "info@custospark.com"
+    }
+  ],
+  "homepage": "https://www.custospark.com",
+  "keywords": [
+    "laravel",
+    "traits",
+    "views",
+    "components"
+  ],
   "autoload": {
     "psr-4": {
       "Custospark\\Traits\\": "src/"
